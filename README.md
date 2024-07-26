@@ -7,7 +7,7 @@ SGR-AutoLap: Surgical Gesture Recognition based Autonomous Laparoscope control f
 
 The HITSurgical dataset can be download at：https://pan.baidu.com/s/1EG-WUpzAZbfXmmKqbP1OOQ?pwd=HIT1, password：HIT1
 
-The video results as supplementary material can be download at:https://pan.baidu.com/s/1a5iDR64ujBc0gwJmW6EObg, password：hit1
+The video results as supplementary material can be download at: https://pan.baidu.com/s/1DvJ5ksaq8flrWHZATqISNQ?pwd=HIT1 提取码: HIT1
 
 Upon publication of this manuscript, the implementation details and code will be available online.
 
